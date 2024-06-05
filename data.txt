@@ -1,0 +1,209 @@
+{
+    "id": 12,
+    "name": "Chả cá",
+    "price": "8000",
+    "sold": 20,
+    "view": 22,
+    "amount": "66",
+    "createdAt": "17/5/2021",
+    "description": "Chả cá là món chả làm từ cá, tương tự chả lợn nhưng thay thịt lợn bằng cá. Món chả cá nổi tiếng nhất là chả cá Lã Vọng. Nguồn gốc chả cá Lã Vọng bắt nguồn từ Hà Nội thời Đông Dương. Khi đó, có gia đình họ Đoàn ở số 14 Hàng Sơn lấy nhà mình cưu mang nghĩa quân Đề Thám, thường hay làm một món chả từ cá rất ngon đãi nghĩa quân.",
+    "linkImage": "https://toplist.vn/images/800px/cha-ca-274163.jpg"
+}
+{
+    "id": 13,
+    "name": "Nem rán",
+    "price": "14000",
+    "sold": 120,
+    "view": 422,
+    "amount": "6",
+    "createdAt": "18/5/2021",
+    "description": "Nem rán (người miền Trung gọi là "ram nướng" còn người miền Nam gọi là "chả giò") là một món ăn truyền thống của người Việt, thường hay được làm vào các dịp cổ, hoặc cúng bái gia tiên, đặc biệt là dịp Tết. Nguồn gốc của nem rán có lẽ bắt nguồn tử ẩm thực Trung Hoa, đặc biệt là ẩm thực Hong Kong nhưng món nem rán ở Việt Nam đã có nhiều khác biệt.",
+    "linkImage": "https://toplist.vn/images/800px/nem-rancha-gio-274165.jpg"
+}
+{
+    "id": 14,
+    "name": "Gỏi cuốn",
+    "price": "15000",
+    "sold": 23,
+    "view": 44,
+    "amount": "61",
+    "createdAt": "19/5/2021",
+    "description": "Gỏi cuốn là món ăn phổ biến ở ca ba miền Bắc, Trung, Nam, nhưng phổ biến nhất là ở Nam Bộ. Gần như không có công thức cố định cho gỏi cuốn bởi mỗi vùng miền lại chế biến khác nhau, nhưng các thành phần chung bao gồm bánh tráng và nhân.",
+    "linkImage": "https://toplist.vn/images/800px/goi-cuon-274169.jpg"
+}
+{
+    "id": 15,
+    "name": "Chả mực",
+    "price": "12000",
+    "sold": 30,
+    "view": 12,
+    "amount": "26",
+    "createdAt": "29/5/2021",
+    "description": "Chả mực của vùng biển Quảng Ninh là món chả được làm từ con cá mực (chỉ mực mai). Chất lượng chả mực Hạ Long (giòn và dai) còn do kỹ thuật chế biến đặc thù của người dân thành phố Hạ Long: mực giã nhuyễn bằng tay, nêm chút hạt tiêu vỡ và mắm, nắn thành những miếng nhỏ dẹt, tròn, đem chiên, khi chín phồng lên như cái bánh rán, màu hơi vàng...",
+    "linkImage": "https://toplist.vn/images/800px/cha-muc-ha-long-507314.jpg"
+}
+{
+    "id": 16,
+    "name": "Cơm cháy",
+    "price": "5000",
+    "sold": 41,
+    "view": 33,
+    "amount": "78",
+    "createdAt": "4/6/2021",
+    "description": "Món cơm cháy hấp dẫn thực khách gồm: cơm cháy, thịt bò hay tim, cật lợn xào với rau như hành tây, nấm rơm, cà rốt, cà chua và các loại nước chấm ăn kèm. Để cơm được ngon thì người ta dùng gạo nếp hương, hạt gạo tròn và trong. Khi nấu tốt nhất là cho vào nồi gang và dùng than củi.",
+    "linkImage": "https://toplist.vn/images/800px/com-chay-507299.jpg"
+}
+{
+    "id": 17,
+    "name": "Súp lươn",
+    "price": "60000",
+    "sold": 34,
+    "view": 42,
+    "amount": "42",
+    "createdAt": "5/6/2021",
+    "description": "Thịt lươn sau khi làm sạch sẽ được xào chung với nghệ, ớt, tiêu xay. Nước dùng được ninh từ xương lợn, bò, xương cá và xương lươn. Đặc biệt không thể thiếu hành tăm - thứ hành chỉ có ở Nghệ An, Hà Tĩnh. Súp lươn thường ăn kèm với bánh mì hoặc bánh mướt (giống bánh cuốn nhưng người ta không cuốn lại và không có nhân). Bánh mướt được tráng mỏng, không nhân. Sau đó cắt thành những miếng nhỏ vừa ăn.",
+    "linkImage": "https://toplist.vn/images/800px/sup-luon-512821.jpg"
+}
+{
+    "id": 18,
+    "name": "Mì Quảng",
+    "price": "33000",
+    "sold": 20,
+    "view": 42,
+    "amount": "55",
+    "createdAt": "1/4/2021",
+    "description": "Mì Quảng không phải là thứ mì nước, hay mì xào mà là thứ mì trộn. Nhân mì thường được chế biến từ nhiều loại nguyên liệu khác nhau: tôm, gà, thịt heo, cá lóc, cua… Có cả mì chay cho người ăn chay. Tùy theo người thích ăn nhân nào sẽ có một bát mì như ý.",
+    "linkImage": "https://toplist.vn/images/800px/mi-quang-507285.jpg"
+}
+{
+    "id": 19,
+    "name": "Yến sào",
+    "price": "90000",
+    "sold": 30,
+    "view": 32,
+    "amount": "42",
+    "createdAt": "2/4/2021",
+    "description": "Yến sào có tác dụng bổ dưỡng cao, làm cường tráng, dai sức, kích thích tiêu hóa, giúp an thần, gây ngủ, cầm máu, chữa được bệnh ho, thổ huyết, kiết lỵ. Yến sào (tổ chim yến) có hình nôi tròn hoặc bầu dục, cong bán nguyệt, màu trắng xám, có khi màu hồng hoặc đỏ…",
+    "linkImage": "https://toplist.vn/images/800px/yen-sao-507274.jpg"
+}
+{
+    "id": 20,
+    "name": "Bánh căn",
+    "price": "21000",
+    "sold": 30,
+    "view": 45,
+    "amount": "10",
+    "createdAt": "3/4/2021",
+    "description": "Nguyên liệu để làm bánh căn là gạo tẻ ngâm khoảng từ 6 đến 8 tiếng đồng hồ rồi đem xay thành bột loãng. Đổ bánh căn dùng một lò đất nung tròn to, bên trên là khuôn bánh được khoét lỗ tròn đều, khuôn đổ bột khoảng 8-16 lỗ; phần thân lò để chứa than hồng. Thoa vào mỗi khuôn một lớp mỡ rồi đậy khuôn, chờ thật nóng mới đổ bột vào. Mẻ đầu được dùng để thử lò và tráng khuôn.",
+    "linkImage": "https://toplist.vn/images/800px/banh-can-512824.jpg"
+}
+{
+    "id": 21,
+    "name": "Lẩu thả",
+    "price": "80000",
+    "sold": 220,
+    "view": 32,
+    "amount": "14",
+    "createdAt": "12/5/2021",
+    "description": "Nước dùng của lẩu thả được chế biến đơn giản, không cầu kỳ như nguyên liệu dùng để ăn lẩu. Chỉ cần cho một ít cà chua và thịt gà cắt hạt lựu khử với dầu ăn, nêm nếm gia vị và sau đó cho nước hầm xương vào đun sôi.",
+    "linkImage": "https://toplist.vn/images/800px/lau-tha-507270.jpg"
+}
+{
+    "id": 22,
+    "name": "Bánh canh",
+    "price": "25000",
+    "sold": 25,
+    "view": 26,
+    "amount": "26",
+    "createdAt": "15/5/2021",
+    "description": "Để có món bánh canh Trảng Bàng thơm ngon, yêu cầu trước tiên là phải có những sợi bánh canh thật ngon. Bột bánh được làm từ loại gạo ngon, ngâm kỹ qua một đêm để gạo đủ độ mềm, sau đó đem xay nhuyễn, lọc, hấp chín để tạo thành những sợi bánh canh mềm, dẻo, trắng muốt.",
+    "linkImage": "https://toplist.vn/images/800px/banh-canh-trang-bang-507264.jpg"
+}
+{
+    "id": 23,
+    "name": "Cơm hến",
+    "price": "23000",
+    "sold": 30,
+    "view": 50,
+    "amount": "59",
+    "createdAt": "23/5/2021",
+    "description": "Cơm hến là sự pha trộn của rất nhiều món ăn dân dã, như hoa chuối thái rối, khế, rau răm, giá, môn thái lát, đậu phộng rang chiên qua dầu, da heo đã qua chế biến thổi phồng lên như tóp mỡ. Tất cả trộn lẫn với gia vị tạo thành một tô cơm hến đặc trưng của xứ Huế, vừa cay, vừa bùi, vừa ngọt…",
+    "linkImage": "https://toplist.vn/images/800px/com-hen-507290.jpg"
+}
+{
+    "id": 24,
+    "name": "Bánh khoái",
+    "price": "12000",
+    "sold": 20,
+    "view": 42,
+    "amount": "56",
+    "createdAt": "18/5/2021",
+    "description": "Bánh khoái Huế là sự hòa trộn màu sắc. Đó là màu vàng ươm của lớp vỏ bánh có pha chút bột nghệ, màu trắng nõn nà của những cọng giá căng tròn, màu đỏ au của tôm, màu nâu xám của nấm tươi. Món ăn còn pha giữa màu ngà của mấy lát thịt lợn ba chỉ hoặc thịt băm, màu vàng tươi của trứng gà, xanh của những lá hành hương. ",
+    "linkImage": "https://toplist.vn/images/800px/banh-khoai-hue-507289.jpg"
+}
+{
+    "id": 25,
+    "name": "Bún mắm",
+    "price": "17000",
+    "sold": 42,
+    "view": 24,
+    "amount": "14",
+    "createdAt": "16/5/2021",
+    "description": "Món ăn này được người dân địa phương biến tấu với nhiều nguyên liệu khác nhau, tùy theo từng vùng miền, nhưng những thành phần dưới đây là không thể thiếu: bún gạo, hải sản, thịt lợn, một số loại rau gia vị và đặc biệt là mắm nêm.",
+    "linkImage": "https://cdn.24h.com.vn/upload/3-2019/images/2019-08-16/7-1565953389-416-width1440height965.jpg"
+}
+{
+    "id": 26,
+    "name": "Mực chiên",
+    "price": "32000",
+    "sold": 19,
+    "view": 39,
+    "amount": "31",
+    "createdAt": "4/5/2021",
+    "description": "Việt Nam là một quốc gia ven biển, vì vậy mực tươi rất dễ mua và phổ biến trong ẩm thực Việt. Thông thường, mực ống được sắt miếng vừa phải và tẩm bột chiên giòn. Món ăn này được mọi lứa tuổi và vùng miền yêu thích vì rất dễ ăn",
+    "linkImage": "https://cdn.24h.com.vn/upload/3-2019/images/2019-08-16/10-1565953389-469-width1440height969.jpg"
+}
+{
+    "id": 27,
+    "name": "Cá kho",
+    "price": "44000",
+    "sold": 37,
+    "view": 89,
+    "amount": "37",
+    "createdAt": "18/5/2021",
+    "description": "Cá được đun sôi liên tục trong dầu ăn, nước hàng, tỏi, hành, muối, nước mắm và nước dừa bên trong nồi đất sét nung tạo nên hương vị vô cùng hấp dẫn",
+    "linkImage": "https://cdn.24h.com.vn/upload/3-2019/images/2019-08-16/13-1565953389-177-width1440height1080.jpg"
+}
+{
+    "id": 28,
+    "name": "Rau muống",
+    "price": "9000",
+    "sold": 31,
+    "view": 89,
+    "amount": "25",
+    "createdAt": "27/5/2021",
+    "description": "Rau muống xanh mướt được xào với tỏi và dầu ăn béo ngậy. Ngay cả những người không thích ăn rau xanh cũng dễ “xiêu lòng” với món ăn dân dã này.",
+    "linkImage": "https://cdn.24h.com.vn/upload/3-2019/images/2019-08-16/16-1565953389-8-width1440height1080.jpg"
+}
+{
+    "id": 29,
+    "name": "Ốc",
+    "price": "58000",
+    "sold": 24,
+    "view": 55,
+    "amount": "62",
+    "createdAt": "21/5/2021",
+    "description": "Người Việt rất thích ăn ốc và các loại ốc ở đây cũng vô cùng đa dạng cả về chủng loại và cách chế biến. Người dân địa phương thường ăn ốc khi nhâm nhi cùng với bia hoặc một chút rượu gạo.",
+    "linkImage": "https://cdn.24h.com.vn/upload/3-2019/images/2019-08-16/19-1565953389-361-width594height440.jpg"
+}
+{
+    "id": 30,
+    "name": "Bột chiên",
+    "price": "16000",
+    "sold": 9,
+    "view": 16,
+    "amount": "21",
+    "createdAt": "6/6/2021",
+    "description": "Bột chiên giòn với trứng và hành lá là món ăn sáng khá hấp dẫn. Món ăn này thường được bày bán trên các xe đẩy ở đường phố miền Nam Việt Nam.",
+    "linkImage": "https://cdn.24h.com.vn/upload/3-2019/images/2019-08-16/20-1565953389-257-width1440height995.jpg"
+}
