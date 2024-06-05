@@ -13,14 +13,7 @@ import * as FirebaseRecaptcha from "expo-firebase-recaptcha";
 import * as firebase from "firebase";
 import {  Button } from 'react-native-elements';
 const FIREBASE_CONFIG: any = {
-    /*
-    apiKey: "AIzaSyCN_dQB0-EkzeLAL0YrWhyPvbNT8fH1wbw",
-    authDomain: "appfood2-88536.firebaseapp.com",
-    projectId: "appfood2-88536",
-    storageBucket: "appfood2-88536.appspot.com",
-    messagingSenderId: "517638475663",
-    appId: "1:517638475663:web:6b1a2a6b0b670adb2e05fa"
-    */
+   
     apiKey: "AIzaSyBEKnqWK47-Ft6Hn8gv9uLK-vy9rmack1w",
     authDomain: "appfood-74513.firebaseapp.com",
     projectId: "appfood-74513",
